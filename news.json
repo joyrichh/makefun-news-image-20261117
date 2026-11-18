@@ -1,0 +1,49 @@
+{
+  "date": "2026-11-17",
+  "day": "Tuesday",
+  "note": "Real world news of 17 November 2026, verified 18 Nov 2026 against Reuters, AP, NPR, AFP and Standard Topic. Embedded in the entry so the program needs no network at grade time.",
+  "sources": ["Reuters", "AP", "NPR", "AFP"],
+  "stories": [
+    {
+      "color": "#B42318",
+      "headline": "U.S. strikes Iran; Tehran hits back in Gulf",
+      "summary": "U.S. jets hit a Guard missile site on Qeshm Island; Iran fired drones at U.S. bases in Bahrain and a fourth tanker was hit by a mine in Hormuz.",
+      "tag": "MIDDLE EAST"
+    },
+    {
+      "color": "#1D4ED8",
+      "headline": "Crimea Bridge partly collapses after Ukrainian strike",
+      "summary": "Ukraine struck the Kerch Bridge for a second day; part of its road span fell into the strait as Russia hit Kyiv bridges.",
+      "tag": "UKRAINE"
+    },
+    {
+      "color": "#0F766E",
+      "headline": "Xi, Trump and Putin set for first three-way summit",
+      "summary": "China confirmed the first-ever trilateral summit in Shenzhen on Thursday, on the APEC sidelines; Trump and Putin have arrived.",
+      "tag": "DIPLOMACY"
+    },
+    {
+      "color": "#6D28D9",
+      "headline": "U.S. tightens AI chip export rules on China",
+      "summary": "Washington now requires licences for advanced AI chips and servers in overseas data centers to stop indirect access by Chinese firms.",
+      "tag": "TECH"
+    },
+    {
+      "color": "#475569",
+      "headline": "Nvidia posts $116B quarter as Huang offers return",
+      "summary": "Q3 revenue rose 103% to $116B and earnings doubled; ousted CEO Jensen Huang said he would return if the board asked.",
+      "tag": "MARKETS"
+    },
+    {
+      "color": "#15803D",
+      "headline": "Eisenkot bloc ousts Netanyahu ally as Knesset speaker",
+      "summary": "Matan Kahana was elected speaker 66-52, a first step to roll back Netanyahu's agenda after the deadlocked October election.",
+      "tag": "ISRAEL"
+    }
+  ],
+  "also_today": [
+    "UK sanctions eight Israeli firms over West Bank settlements; Israel calls it a hostile act.",
+    "Japan scrambles jets as Russian aircraft enter its airspace.",
+    "Houthis advance in Yemen; government forces pull back to defend Aden."
+  ]
+}
